@@ -19,7 +19,10 @@
 	</properties>
 	<modules>
 		<module>ObserveMode</module>
-	</modules>
+        <module>HandlerMode</module>
+        <module>StrategyMode</module>
+        <module>TemplateMode</module>
+    </modules>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

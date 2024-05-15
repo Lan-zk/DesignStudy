@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ObserveMode/pom.xml" />
         <option value="$PROJECT_DIR$/StrategyMode/pom.xml" />
+        <option value="$PROJECT_DIR$/TemplateMode/pom.xml" />
       </list>
     </option>
   </component>
